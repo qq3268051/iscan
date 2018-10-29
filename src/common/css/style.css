@@ -1,0 +1,9 @@
+html{font-size: 9.765625vw;}
+body{font-size: .14rem; -webkit-text-size-adjust: none;}
+/* -webkit-text-size-adjust body下面的文字禁止放大 */
+body,h1,h2,h3,h4,p,ul,dl,dd{margin: 0;}
+ul{margin: 0;padding: 0; list-style: none;}
+img{vertical-align: top;}
+a{text-decoration: none;}
+a,input{-webkit-tap-highlight-color: rgba(0, 0, 0, 0); -webkit-appearance: none;}
+/*-webkit-tap-highlight-color 清除按下时的默认阴影 -webkit-appearance清除ios按钮默认圆角 */
